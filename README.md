@@ -1,3 +1,5 @@
+<p align="center"><img src="https://www.pngkit.com/png/full/353-3536377_with-all-this-content-available-in-one-place.png" width="100" height="100"></p>
+
 <h1 align="center"> ✯ ZEE5 LIVETV ✯ </h1>
 
 <p align="center"><b>It can Scrap ZEE5 Live Streaming URL's Using The Channel ID and Direct Play Anywhere</b></p><br>
@@ -10,8 +12,8 @@
 • And Just Copy Channel ID From URL Box <br><br>
 • e.g --> I Use This Link : https://www.zee5.com/channels/details/zee-cinema-hd/0-9-zeecinemahd <br><br>
 • Just Copy ID e.g. <code>0-9-zeecinemahd</code> at end of URL <br><br>
-  • After Copy Paste ID after this URL without <code>0-9-</code> --> <code>http://snehzee5.epizy.com/index.php?c=CHANNEL_ID</code> <br><br>
-• It Final URL is --> http://snehzee5.epizy.com/index.php?c=0-9-zeecinemahd <br><br>
+  • After Copy Paste ID after this URL without <code>0-9-</code> --> <code>http://snehzee5.ueuo.com/index.php?c=CHANNEL_ID</code> <br><br>
+• It Final URL is --> http://snehzee5.ueuo.com/index.php?c=0-9-zeecinemahd <br><br>
 • Run Final URL in Browser You Get Streaming URL <br>
 </h4>
 <br><br>
@@ -20,8 +22,8 @@
 
 <h4>
   
-• Put I'd after <code>0-9-</code> : http://snehzee5.epizy.com/index.php?c=0-9-zeecinemahd |  (Player Added )<br><br>
-• Put I'd after <code>0-9-</code> : http://snehzee5.epizy.com/index.php?c=CHANNEL_ID  |  ( For Play in other Players or IPTV )
+• Put I'd after <code>0-9-</code> : http://snehzee5.ueuo.com/index.php?c=0-9-zeecinemahd |  (Player Added )<br><br>
+• Put I'd after <code>0-9-</code> : http://snehzee5.ueuo.com/index.php?c=CHANNEL_ID  |  ( For Play in other Players or IPTV )
   
   </h4><br>
 
@@ -77,11 +79,11 @@ https://www.zee5.com/channels/details/wion/0-9-wion
   
 ## For Examples :-
 
-1. http://snehzee5.epizy.com/index.php?c=0-9-zeecinemahd <br><br>
-2. http://snehzee5.epizy.com/index.php?c=0-9-zeecinemahd <br><br>
-3. http://snehzee5.epizy.com/index.php?c=0-9-zeecinemahd <br><br>
-4. http://snehzee5.epizy.com/index.php?c=0-9-zeecinemahd <br><br>
-5. http://snehzee5.epizy.com/index.php?c=0-9-zeecinemahd <br><br>
+1. http://snehzee5.ueuo.com/index.php?c=0-9-zeecinemahd <br><br>
+2. http://snehzee5.ueuo.com/index.php?c=0-9-zeecinemahd <br><br>
+3. http://snehzee5.ueuo.com/index.php?c=0-9-zeecinemahd <br><br>
+4. http://snehzee5.ueuo.com/index.php?c=0-9-zeecinemahd <br><br>
+5. http://snehzee5.ueuo.com/index.php?c=0-9-zeecinemahd <br><br>
 and many more .......
  
   
@@ -91,7 +93,7 @@ and many more .......
 
 <h2> Where To Host : </h2>
 
-<h5 align="center"> Copy The index.php code and Host on repl.it <br> or Your Hosting Otherwise Use http://snehzee5.epizy.com/
+<h5 align="center"> Copy The index.php code and Host on repl.it <br> or Your Hosting Otherwise Use http://snehzee5.ueuo.com/
   
   
 ---
