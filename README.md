@@ -73,17 +73,18 @@
 
 ### News
 
-https://www.zee5tv.com/channels/details/news-x/0-9-273
-https://www.zee5tv.com/channels/details/wion/0-9-wion
+• 0-9-273 <br>
+• 0-9-wion <br>
+• 0-9-zeenews <br>
 
   
 ## For Examples :-
 
 1. http://snehzee5tv.ueuo.com/index.php?c=0-9-zeecinemahd <br><br>
-2. http://snehzee5tv.ueuo.com/index.php?c=0-9-zeecinemahd <br><br>
-3. http://snehzee5tv.ueuo.com/index.php?c=0-9-zeecinemahd <br><br>
-4. http://snehzee5tv.ueuo.com/index.php?c=0-9-zeecinemahd <br><br>
-5. http://snehzee5tv.ueuo.com/index.php?c=0-9-zeecinemahd <br><br>
+2. http://snehzee5tv.ueuo.com/index.php?c=0-9-tvhd_0 <br><br>
+3. http://snehzee5tv.ueuo.com/index.php?c=0-9-353 <br><br>
+4. http://snehzee5tv.ueuo.com/index.php?c=0-9-wion <br><br>
+5. http://snehzee5tv.ueuo.com/index.php?c=0-9-zeetvhd <br><br>
 and many more .......
  
   
