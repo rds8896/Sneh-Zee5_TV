@@ -94,7 +94,7 @@ and many more .......
 
 <h2> Where To Host : </h2>
 
-<h5 align="center"> Copy The index.php code and Host on repl.it <br> or Your Hosting Otherwise Use https://ayushiz5tv.herokuapp.com/
+<h5 align="center"> Copy The index.php code and Host on repl.it <br> or Your Hosting Otherwise Use https://zee5tv.herokuapp.com/
   
   
 ---
