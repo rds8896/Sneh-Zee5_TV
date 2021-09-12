@@ -12,8 +12,8 @@
 • And Just Copy Channel ID From URL Box <br><br>
 • e.g --> I Use This Link : https://www.zee5.com/channels/details/zee-cinema-hd/0-9-zeecinemahd <br><br>
 • Just Copy ID e.g. <code>0-9-zeecinemahd</code> at end of URL <br><br>
-  • After Copy Paste ID after this URL without <code>0-9-</code> --> <code> http://localhost:8080/index.php?c=CHANNEL_ID</code> <br><br>
-• It Final URL is --> https://ayushiz5tv.herokuapp.com/?c=0-9-zeecinemahd <br><br>
+  • After Copy Paste ID after this URL without <code>0-9-</code> --> <code> http://snehz5tv.herokuapp.com/?c=CHANNEL_ID</code> <br><br>
+• It Final URL is --> https://snehz5tv.herokuapp.com/?c=0-9-zeecinemahd <br><br>
 • Run Final URL in Browser You Get Streaming URL <br>
 </h4>
 <br><br>
@@ -22,8 +22,8 @@
 
 <h4>
   
-• Put I'd after <code>0-9-</code> : https://ayushiz5tv.herokuapp.com/?c=0-9-zeecinemahd |  (Player Added )<br><br>
-• Put I'd after <code>0-9-</code> : https://ayushiz5tv.herokuapp.com/?c=CHANNEL_ID  |  ( For Play in other Players or IPTV )
+• Put I'd after <code>0-9-</code> : https://snehz5tv.herokuapp.com/?c=0-9-zeecinemahd |  (Player Added )<br><br>
+• Put I'd after <code>0-9-</code> : https://snehz5tv.herokuapp.com/?c=CHANNEL_ID  |  ( For Play in other Players or IPTV )
   
   </h4><br>
 
@@ -80,11 +80,11 @@
   
 ## For Examples :-
 
-1. https://ayushiz5tv.herokuapp.com/?c=0-9-zeecinemahd <br><br>
-2. https://ayushiz5tv.herokuapp.com/?c=0-9-tvhd_0 <br><br>
-3. https://ayushiz5tv.herokuapp.com/?c=0-9-353 <br><br>
-4. https://ayushiz5tv.herokuapp.com/?c=0-9-wion <br><br>
-5. https://ayushiz5tv.herokuapp.com/?c=0-9-zeetvhd <br><br>
+1. https://snehz5tv.herokuapp.com/?c=0-9-zeecinemahd <br><br>
+2. https://snehz5tv.herokuapp.com/?c=0-9-tvhd_0 <br><br>
+3. https://snehz5tv.herokuapp.com/?c=0-9-353 <br><br>
+4. https://snehz5tv.herokuapp.com/?c=0-9-wion <br><br>
+5. https://snehz5tv.herokuapp.com/?c=0-9-zeetvhd <br><br>
 and many more .......
  
   
